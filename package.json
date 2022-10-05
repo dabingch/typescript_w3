@@ -1,0 +1,14 @@
+{
+  "name": "typescript_w3",
+  "version": "1.0.0",
+  "description": "typescript learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dabing",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
